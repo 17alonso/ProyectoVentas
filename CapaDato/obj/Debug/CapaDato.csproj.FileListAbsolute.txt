@@ -1,0 +1,17 @@
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\NPOI.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\NPOI.OOXML.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\itextsharp.dll
+C:\Users\spous\source\repos\SistemaUnidadII\CapaDato\bin\Debug\itextsharp.xml
